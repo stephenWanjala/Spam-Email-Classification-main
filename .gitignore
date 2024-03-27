@@ -1,0 +1,23 @@
+# PyCharm related files
+.idea/
+*.iml
+.idea
+# Flask related files
+__pycache__/
+*.pyc
+instance/
+.env
+
+
+# Virtual environment
+venv/
+
+# Compiled Python files
+*.pyc
+*.pyo
+__pycache__/
+
+# Dependency directories
+env/
+lib/
+include/
